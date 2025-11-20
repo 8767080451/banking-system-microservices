@@ -72,7 +72,7 @@ Service Discovery (Eureka):
 ## Installation & Setup
 
 1. Clone the Repository:
-git clone https://github.com/yourusername/banking-system-microservices.git
+git clone https://github.com/8767080451/banking-system-microservices
 
 2. Start MongoDB (Docker):
 docker run -d -p 27017:27017 --name mongo-db mongo
